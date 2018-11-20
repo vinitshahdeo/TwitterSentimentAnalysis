@@ -21,6 +21,8 @@ A web app to search the keywords(**Hashtags**) on Twitter and analyze the sentim
  - Open **config.php** and configure your **Datumbox API** Key. Get yours at http://www.datumbox.com/apikeys/view/ 
  
  - Get **Twitter API** key for your application at https://dev.twitter.com/apps
+ 
+ - Replace **XXXXXXXXXXXXXXXXXX** with your API keys
 
 ```php
 
@@ -32,7 +34,7 @@ define('TWITTER_ACCESS_KEY', 'XXXXXXXXXXXXXXXXXX');
 define('TWITTER_ACCESS_SECRET', 'XXXXXXXXXXXXXXXXXX'); 
 
 ```
- 
+
  - Run localhost/index.php
  
  - Wait a while after entering the hashtags. It may take one minute to fetch the tweets. Make sure that your system is connected with internet.
