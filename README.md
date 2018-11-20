@@ -1,5 +1,7 @@
 # Twitter-Sentiment-Analysis
 
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/vinitshahdeo/)
+
 A web app to search the keywords(**Hashtags**) on Twitter and analyze the sentiments of it. The source code is written in PHP and it performs Sentiment Analysis on Tweets by using the Datumbox API.
 
 ## APIs Used
@@ -16,7 +18,7 @@ A web app to search the keywords(**Hashtags**) on Twitter and analyze the sentim
 - PHP Twitter API Client: https://github.com/timwhitlock/php-twitter-api
 
 
-## Instructions - How to Run ?
+## Instructions
 
  - Open **config.php** and configure your **Datumbox API** Key. Get yours at http://www.datumbox.com/apikeys/view/ 
  
@@ -39,6 +41,14 @@ define('TWITTER_ACCESS_SECRET', 'XXXXXXXXXXXXXXXXXX');
  
  - Wait a while after entering the hashtags. It may take one minute to fetch the tweets. Make sure that your system is connected with internet.
  
+## Oh, Thanks!
+[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://facebook.com/vinit.shahdeo)
+Thank you for being here!
+For any kind of help in running this project, feel free to contact me @[vinitshahdeo@gmail.com](https://mail.google.com/mail/)
+Connect with me on 
+ 
 ## License
 
 MIT &copy; [Vinit Shahdeo](https://github.com/vinitshahdeo/)
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/vinitshahdeo)
