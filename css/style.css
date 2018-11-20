@@ -135,3 +135,23 @@ input[type=submit]:hover {
         font-weight: bolder;
        border:2px solid teal;
     }
+
+.res{
+        font-size: 18px;
+    }
+    
+    .neg{
+        color:#CD3E20;
+        font-size: 18px;
+        font-weight: 800;
+    }
+    .pos{
+        color: teal  ;
+        font-size: 18px;
+        font-weight: 800;
+    }
+    .neu {
+        color : #2E302C;
+        font-size: 18px;
+        font-weight: 800;
+    }

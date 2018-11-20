@@ -37,10 +37,25 @@ if(isset($_GET['q']) && $_GET['q']!='') {
         'count'=>20,
     );
     $results=$TwitterSentimentAnalysis->sentimentAnalysis($twitterSearchParams);
-
+    $pos=0;
+    $neg=0;
+    $neu=0;
+    foreach($results as $tweet){
+        if($tweet['sentiment']=='positive') {
+                $pos++;
+            }
+            else if($tweet['sentiment']=='negative') {
+                $neg++;
+            }
+            else if($tweet['sentiment']=='neutral') {
+                $neu++;
+            }
+    }
+    $total = $pos+$neg+$neu;
 
     ?>
     <h3>Results for "<?php echo $_GET['q']; ?>"</h3>
+    <p class="res"><span class="pos">Positive Tweets: <?php echo round(($pos/$total)*100);?>%</span> | <span class="neu">Neutral Tweets: <?php echo round(($neu/$total)*100);?>%</span> | <span class="neg"> Negative Tweets: <?php echo round(($neg/$total)*100);?>%</span> </p>
     <div class="aa_htmlTable">
     <table class="table" border="1">
         <tr class="title">
@@ -72,7 +87,7 @@ if(isset($_GET['q']) && $_GET['q']!='') {
             <?php
         }
         ?>    
-    </table></div>
+    </table></div><i class="fa fa-code" aria-hidden="true"></i> with <i class="fa fa-heart" aria-hidden="true"></i> by <strong>Vinit Shahdeo</strong>
     <?php
 }
 
