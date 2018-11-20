@@ -21,6 +21,17 @@ A web app to search the keywords(**Hashtags**) on Twitter and analyze the sentim
  - Open **config.php** and configure your **Datumbox API** Key. Get yours at http://www.datumbox.com/apikeys/view/ 
  
  - Get **Twitter API** key for your application at https://dev.twitter.com/apps
+
+```php
+
+define('DATUMBOX_API_KEY', 'XXXXXXXXXXXXXXXXXX');
+
+define('TWITTER_CONSUMER_KEY', 'XXXXXXXXXXXXXXXXXX');
+define('TWITTER_CONSUMER_SECRET', 'XXXXXXXXXXXXXXXXXX');
+define('TWITTER_ACCESS_KEY', 'XXXXXXXXXXXXXXXXXX');
+define('TWITTER_ACCESS_SECRET', 'XXXXXXXXXXXXXXXXXX'); 
+
+```
  
  - Run localhost/index.php
  
@@ -28,4 +39,4 @@ A web app to search the keywords(**Hashtags**) on Twitter and analyze the sentim
  
 ## License
 
-MIT &copy; [Vinit Shahdeo](http://www.vinitshahdeo.com/)
+MIT &copy; [Vinit Shahdeo](https://github.com/vinitshahdeo/)
