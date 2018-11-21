@@ -39,7 +39,7 @@ define('TWITTER_ACCESS_SECRET', 'XXXXXXXXXXXXXXXXXX');
 
 ```
 
- - Run localhost/index.php
+ - Run `localhost/index.php`
  
  - Wait a while after entering the hashtags. It may take one minute to fetch the tweets. Make sure that your system is connected with internet.
  
