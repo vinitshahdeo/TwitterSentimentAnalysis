@@ -6,7 +6,7 @@
 
 A web app to search the keywords(**Hashtags**) on Twitter and analyze the sentiments of it. The source code is written in PHP and it performs Sentiment Analysis on Tweets by using the Datumbox API.
 
-[![Sentiment Analysis](https://img.shields.io/badge/Sentiment-Analysis-teal.svg?style=for-the-badge)](https://github.com/vinitshahdeo/TwitterSentimentAnalysis/) [![Twitter API](https://img.shields.io/badge/Twitter-API-blue.svg?style=for-the-badge)](https://github.com/vinitshahdeo/TwitterSentimentAnalysis/)
+[![Sentiment Analysis](https://img.shields.io/badge/Sentiment-Analysis-crimson.svg?style=for-the-badge)](https://github.com/vinitshahdeo/TwitterSentimentAnalysis/) [![Twitter API](https://img.shields.io/badge/Twitter-API-blue.svg?style=for-the-badge)](https://github.com/vinitshahdeo/TwitterSentimentAnalysis/)
 
 ## APIs Used
 
