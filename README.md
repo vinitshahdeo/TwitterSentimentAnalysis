@@ -15,18 +15,12 @@ A web app to search the keywords(**Hashtags**) on Twitter and analyze the sentim
 
 ## Useful Links
 
-| TITLE | LINK |
-| ------- | -------------- |
-| Sign-up for free API Key | [Click](http://www.datumbox.com/users/register/) |
-| View your API Key | [Click](http://www.datumbox.com/apikeys/view/) |
-| PHP Twitter API Client | [Click](https://github.com/timwhitlock/php-twitter-api) |
 
+- Sign-up for free API Key: [Click here](http://www.datumbox.com/users/register/)
 
-- Sign-up for free API Key: http://www.datumbox.com/users/register/
+- View your API Key: [Click here](http://www.datumbox.com/apikeys/view/)
 
-- View your API Key: http://www.datumbox.com/apikeys/view/
-
-- PHP Twitter API Client: https://github.com/timwhitlock/php-twitter-api
+- PHP Twitter API Client: [Click here](https://github.com/timwhitlock/php-twitter-api)
 
 
 ## Instructions
