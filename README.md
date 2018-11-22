@@ -56,6 +56,6 @@ For any kind of help in running this project, feel free to contact me @ [vinitsh
  
 ## License
 
-MIT &copy; [Vinit Shahdeo](https://github.com/vinitshahdeo/)
+**MIT &copy; [Vinit Shahdeo](https://github.com/vinitshahdeo/)**
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/vinitshahdeo)
