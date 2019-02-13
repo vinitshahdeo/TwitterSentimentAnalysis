@@ -6,6 +6,8 @@
 
 A web app to search the keywords(**Hashtags**) on Twitter and analyze the sentiments of it. The source code is written in PHP and it performs Sentiment Analysis on Tweets by using the Datumbox API.
 
+[![Check it Out](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/vinitshahdeo) [![Live Demo](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)](https://github.com/vinitshahdeo)
+
 > **Check [live demo](http://vinitshahdeo.com/projects/twitter/) here!**
 
 [![Sentiment Analysis](https://img.shields.io/badge/Sentiment-Analysis-orange.svg?style=for-the-badge)](https://github.com/vinitshahdeo/TwitterSentimentAnalysis/) [![Twitter API](https://img.shields.io/badge/Twitter-API-blue.svg?style=for-the-badge)](https://github.com/vinitshahdeo/TwitterSentimentAnalysis/)
@@ -50,6 +52,8 @@ define('TWITTER_ACCESS_SECRET', 'XXXXXXXXXXXXXXXXXX');
  
 ## Oh, Thanks!
 
+[![Lol :p ](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://facebook.com/vinit.shahdeo) [![Yes, Not an issue](https://forthebadge.com/images/badges/not-an-issue.svg)](https://instagram.com/vinitshahdeo)
+
 Thank you for being here!
 For any kind of help in running this project, feel free to contact me @ [vinitshahdeo@gmail.com](https://mail.google.com/mail/)
 
@@ -61,4 +65,4 @@ For any kind of help in running this project, feel free to contact me @ [vinitsh
 
 **MIT &copy; [Vinit Shahdeo](https://github.com/vinitshahdeo/)**
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/vinitshahdeo)
+[![Made with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/vinitshahdeo) [![For you](https://forthebadge.com/images/badges/for-you.svg)](https://github.com/vinitshahdeo) [![Powered by o2](https://forthebadge.com/images/badges/powered-by-oxygen.svg)](https://facebook.com/vinitshahdeo)
