@@ -3,7 +3,7 @@
 [![Sentiment Analysis](https://img.shields.io/static/v1.svg?label=Sentiment&message=Analysis&color=9cf&logo=twitter&style=flat&logoColor=white&colorA=informational)](https://github.com/vinitshahdeo/TwitterSentimentAnalysis/) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/vinitshahdeo/) 
 [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/TwitterSentimentAnalysis.svg)](https://github.com/vinitshahdeo/TwitterSentimentAnalysis/blob/master/LICENSE) 
 
-[![GitHub repo size](https://img.shields.io/github/repo-size/vinitshahdeo/TwitterSentimentAnalysis.svg?logo=github&style=social)](https://github.com/vinitshahdeo/) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/TwitterSentimentAnalysis.svg?logo=git&style=social)](https://github.com/vinitshahdeo/) [![GitHub top language](https://img.shields.io/github/languages/top/vinitshahdeo/TwitterSentimentAnalysis.svg?logo=python&style=social)](https://github.com/vinitshahdeo/)
+[![GitHub repo size](https://img.shields.io/github/repo-size/vinitshahdeo/TwitterSentimentAnalysis.svg?logo=github&style=social)](https://github.com/vinitshahdeo/) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/TwitterSentimentAnalysis.svg?logo=git&style=social)](https://github.com/vinitshahdeo/) [![GitHub top language](https://img.shields.io/github/languages/top/vinitshahdeo/TwitterSentimentAnalysis.svg?logo=php&style=social)](https://github.com/vinitshahdeo/)
 
 A web app to search the keywords(**Hashtags**) on Twitter and analyze the sentiments of it. The source code is written in PHP and it performs Sentiment Analysis on Tweets by using the Datumbox API.
 
