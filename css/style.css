@@ -7,7 +7,7 @@ body{
   width: 100%;
   background: #dedede;
   text-align: center;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Raleway', sans-serif;
   color: #191919;
   overflow-x: hidden;
   
@@ -92,7 +92,7 @@ table,thead,tbody,tfoot,tr, td,th{
 
 
 .heading{
-       font-family: 'Allerta Stencil', sans-serif; 
+       font-family: 'Verdana', sans-serif; 
     color:teal;
     }
 
