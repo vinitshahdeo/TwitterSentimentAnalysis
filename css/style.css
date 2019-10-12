@@ -7,7 +7,7 @@ body{
   width: 100%;
   background: #dedede;
   text-align: center;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Lato', sans-serif;
   color: #191919;
   overflow-x: hidden;
   
@@ -28,7 +28,7 @@ table{
 table,thead,tbody,tfoot,tr, td,th{
   text-align: center;
   margin: auto;
-  border:1px solid #dedede;
+  border:1px solid #3f3f3f;
   padding: 1rem;
   width: 50%;
 }
@@ -80,7 +80,7 @@ table,thead,tbody,tfoot,tr, td,th{
 }
 
 .aa_htmlTable{
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Raleway', sans-serif;
   padding: 3rem;
   display: table;
   width: 100%;
@@ -92,7 +92,7 @@ table,thead,tbody,tfoot,tr, td,th{
 
 
 .heading{
-       font-family: 'Allerta Stencil', sans-serif; 
+       font-family: 'Verdana', sans-serif; 
     color:teal;
     }
 
