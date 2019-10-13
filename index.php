@@ -10,7 +10,7 @@
 <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 
 
-<title>Twitter Sentiment Analysis</title>
+<title>Twitter Sentiment Analyser - Web App</title>
 <link href="https://fonts.googleapis.com/css?family=Allerta+Stencil|Montserrat" rel="stylesheet">
 <link href="css/style.css" rel="stylesheet">
 </head>
@@ -94,6 +94,4 @@ if(isset($_GET['q']) && $_GET['q']!='') {
 ?>
 
 </body>
-<!-- Made with love by Vinit Shahdeo -->
-<!-- View more @ https://github.com/vinitshahdeo/ -->
 </html>
