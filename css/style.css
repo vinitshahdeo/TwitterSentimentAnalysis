@@ -5,9 +5,9 @@ View more @ https://github.com/vinitshahdeo/
 body{
   display: table;
   width: 100%;
-  background: #dedede;
+  background: #fff;
   text-align: center;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'DejaVu', sans-serif;
   color: #191919;
   overflow-x: hidden;
   
@@ -17,7 +17,9 @@ body{
   -moz-box-sizing: border-box;    /* Firefox, other Gecko */
   box-sizing: border-box;         /* Opera/IE 8+ */
 }
-
+.instruction{
+  font-family: 'DejaVu', sans-serif;
+}
 .aa_h2{
   font:100 5rem/1 Roboto;
   text-transform: uppercase;
@@ -56,7 +58,7 @@ table,thead,tbody,tfoot,tr, td,th{
 .table{
   background: #fff;
   margin: auto;
-  border:2px solid teal;
+  border:2px solid #59D3FC;
   padding: 0;
   margin-bottom: 5rem;
   border-collapse: collapse;
@@ -65,7 +67,7 @@ table,thead,tbody,tfoot,tr, td,th{
 .th{
   font-weight:900;
   color: teal;
-  border:2px solid teal;
+  border:2px solid #59D3FC;
   &:nth-child(odd){
     border-right:none;
   }
@@ -80,7 +82,7 @@ table,thead,tbody,tfoot,tr, td,th{
 }
 
 .aa_htmlTable{
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'DejaVu Sans Mono', sans-serif;
   padding: 3rem;
   display: table;
   width: 100%;
@@ -92,8 +94,8 @@ table,thead,tbody,tfoot,tr, td,th{
 
 
 .heading{
-       font-family: 'Allerta Stencil', sans-serif; 
-    color:teal;
+       font-family: 'DejaVu Sans Mono',serif; 
+    color:#59D3FC;
     }
 
 input[type=text] {
@@ -101,7 +103,7 @@ input[type=text] {
     padding: 12px 20px;
     margin: 8px 0;
     box-sizing: border-box;
-    border: 2px solid teal;
+    border: 2px solid #59D3FC;
     border-radius: 4px;
 }
 
@@ -128,12 +130,12 @@ input[type=submit]:hover {
     color: white;
 }
     .fa{
-        color:teal;
+        color:#15D8D7;
     }
     .title{
-        color:teal;
+        color:#A0E72C;
         font-weight: bolder;
-       border:2px solid teal;
+       border:2px solid #59D3FC;
     }
 
 .res{
@@ -141,17 +143,17 @@ input[type=submit]:hover {
     }
     
     .neg{
-        color:#CD3E20;
+        color:rgb(205, 32, 32);
         font-size: 18px;
         font-weight: 800;
     }
     .pos{
-        color: teal  ;
+        color: #15D8D7  ;
         font-size: 18px;
         font-weight: 800;
     }
     .neu {
-        color : #2E302C;
+        color : whitesmoke;
         font-size: 18px;
         font-weight: 800;
     }
