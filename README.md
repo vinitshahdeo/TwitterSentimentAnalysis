@@ -1,7 +1,7 @@
 # Twitter Sentiment Analysis
 
 [![Sentiment Analysis](https://img.shields.io/static/v1.svg?label=Sentiment&message=Analysis&color=9cf&logo=twitter&style=flat&logoColor=white&colorA=informational)](https://github.com/vinitshahdeo/TwitterSentimentAnalysis/) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/vinitshahdeo/) 
-[![GitHub license](https://img.shields.io/github/license/vinitshahdeo/TwitterSentimentAnalysis.svg)](https://github.com/vinitshahdeo/TwitterSentimentAnalysis/blob/master/LICENSE) 
+[![GitHub license](https://img.shields.io/github/license/vinitshahdeo/TwitterSentimentAnalysis.svg?logo=github)](https://github.com/vinitshahdeo/TwitterSentimentAnalysis/blob/master/LICENSE) 
 
 [![GitHub repo size](https://img.shields.io/github/repo-size/vinitshahdeo/TwitterSentimentAnalysis.svg?logo=github&style=social)](https://github.com/vinitshahdeo/) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/TwitterSentimentAnalysis.svg?logo=git&style=social)](https://github.com/vinitshahdeo/) [![GitHub top language](https://img.shields.io/github/languages/top/vinitshahdeo/TwitterSentimentAnalysis.svg?logo=php&style=social)](https://github.com/vinitshahdeo/)
 
@@ -71,5 +71,7 @@ For any kind of help in running this project, feel free to contact me @ [vinitsh
 ## License
 
 **MIT &copy; [Vinit Shahdeo](https://github.com/vinitshahdeo/)**
+
+[![Vinit Shahdeo - HALL OF FAME](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/TwitterSentimentAnalysis/images/0)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/TwitterSentimentAnalysis/links/0)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/TwitterSentimentAnalysis/images/1)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/TwitterSentimentAnalysis/links/1)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/TwitterSentimentAnalysis/images/2)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/TwitterSentimentAnalysis/links/2)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/TwitterSentimentAnalysis/images/3)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/TwitterSentimentAnalysis/links/3)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/TwitterSentimentAnalysis/images/4)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/TwitterSentimentAnalysis/links/4)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/TwitterSentimentAnalysis/images/5)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/TwitterSentimentAnalysis/links/5)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/TwitterSentimentAnalysis/images/6)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/TwitterSentimentAnalysis/links/6)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/TwitterSentimentAnalysis/images/7)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/TwitterSentimentAnalysis/links/7)
 
 [![Made with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/vinitshahdeo) [![For you](https://forthebadge.com/images/badges/for-you.svg)](https://github.com/vinitshahdeo) [![Powered by o2](https://forthebadge.com/images/badges/powered-by-oxygen.svg)](https://facebook.com/vinitshahdeo)
