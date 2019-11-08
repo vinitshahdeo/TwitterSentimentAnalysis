@@ -15,8 +15,9 @@
 <link href="css/style.css" rel="stylesheet">
 </head>
 <body>
-<h1 class="heading">Twitter <i class="fa fa-twitter" aria-hidden="true"></i> Sentiment Analysis</h1>
-    <p>Type your <strong>#Hashtags</strong> below to perform Sentiment Analysis on Twitter Results.<br> Click <b>Fetch Tweets</b> and wait for while to view the results.<br><strong><a href="https://github.com/vinitshahdeo"><i class="fa fa-github" aria-hidden="true"></i></a></strong></p>
+<h1 class="heading">Twitter <i class="fa fa-twitter twitter" aria-hidden="true"></i> Sentiment Analysis</h1>
+    <p>Type your <strong>#Hashtags</strong> below to perform Sentiment Analysis on Twitter Results.<br> Click <b>Fetch Tweets</b> and wait for while to view the results.<br><strong><a class="author" href="https://github.com/vinitshahdeo">
+        <div class="row">By : vinitshahdeo </div><i class="fa fa-github git" aria-hidden="true"></i></a></strong></p>
 <form method="GET">
     <input type="text" name="q" required="required"/> <br>
     <input type="submit" value="Fetch Tweets"/>
@@ -75,7 +76,7 @@ if(isset($_GET['q']) && $_GET['q']!='') {
                 $color='#ffb2b2';
             }
             else if($tweet['sentiment']=='neutral') {
-                $color='#FFFFFF';
+                $color='#6666';
             }
             ?>
             <tr style="background:<?php echo $color; ?>;">
