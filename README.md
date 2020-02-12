@@ -76,4 +76,6 @@ For any kind of help in running this project, feel free to contact me @ [vinitsh
 
 <a href="https://twitter.com/Vinit_Shahdeo"><img src="icons/twitter.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/vinit.shahdeo"><img src="icons/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/vinitshahdeo/"><img src="icons/linkedin.png" width="32px" height="32px"></a>
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo)
+
 [![Made with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/vinitshahdeo) [![For you](https://forthebadge.com/images/badges/for-you.svg)](https://github.com/vinitshahdeo) [![Powered by o2](https://forthebadge.com/images/badges/powered-by-oxygen.svg)](https://facebook.com/vinitshahdeo)
