@@ -5,10 +5,10 @@ View more @ https://github.com/vinitshahdeo/
 body{
   display: table;
   width: 100%;
-  background: #dedede;
+  background: #8b8b8b;
   text-align: center;
   font-family: 'Montserrat', sans-serif;
-  color: #191919;
+  color: #591980;
   overflow-x: hidden;
   
 }
@@ -28,7 +28,7 @@ table{
 table,thead,tbody,tfoot,tr, td,th{
   text-align: center;
   margin: auto;
-  border:1px solid #dedede;
+  border:1px solid #8b8b8b;
   padding: 1rem;
   width: 50%;
 }
@@ -141,7 +141,7 @@ input[type=submit]:hover {
     }
     
     .neg{
-        color:#CD3E20;
+        color:#62AF80;
         font-size: 18px;
         font-weight: 800;
     }
@@ -151,7 +151,7 @@ input[type=submit]:hover {
         font-weight: 800;
     }
     .neu {
-        color : #2E302C;
+        color : #a76042;
         font-size: 18px;
         font-weight: 800;
     }
