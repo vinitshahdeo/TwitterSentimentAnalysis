@@ -7,8 +7,8 @@ body{
   width: 100%;
   background: #dedede;
   text-align: center;
-  font-family: 'Montserrat', sans-serif;
-  color: #191919;
+  font-family: 'Fira Mono', monospace;
+  color: #333;
   overflow-x: hidden;
   
 }
@@ -28,7 +28,7 @@ table{
 table,thead,tbody,tfoot,tr, td,th{
   text-align: center;
   margin: auto;
-  border:1px solid #dedede;
+  border:2px solid #c3c3c3;
   padding: 1rem;
   width: 50%;
 }
@@ -137,21 +137,21 @@ input[type=submit]:hover {
     }
 
 .res{
-        font-size: 18px;
+        font-size: 24px;
     }
     
     .neg{
         color:#CD3E20;
-        font-size: 18px;
+        font-size: 24px;
         font-weight: 800;
     }
     .pos{
         color: teal  ;
-        font-size: 18px;
+        font-size: 24px;
         font-weight: 800;
     }
     .neu {
         color : #2E302C;
-        font-size: 18px;
+        font-size: 24px;
         font-weight: 800;
     }
