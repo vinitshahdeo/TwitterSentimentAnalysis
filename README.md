@@ -9,8 +9,6 @@ A web app to search the keywords(**Hashtags**) on Twitter and analyze the sentim
 
 [![Check it Out](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/vinitshahdeo) [![Live Demo](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)](https://github.com/vinitshahdeo)
 
-> **Check [live demo](http://winitvit.000webhostapp.com/projects/twitter/) here!**
-
 [![Sentiment Analysis](https://img.shields.io/badge/Sentiment-Analysis-orange.svg?style=for-the-badge)](https://github.com/vinitshahdeo/TwitterSentimentAnalysis/) [![Twitter API](https://img.shields.io/badge/Twitter-API-blue.svg?style=for-the-badge)](https://github.com/vinitshahdeo/TwitterSentimentAnalysis/)
 
 ## APIs Used
