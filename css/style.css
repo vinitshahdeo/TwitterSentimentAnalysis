@@ -5,9 +5,10 @@ View more @ https://github.com/vinitshahdeo/
 body{
   display: table;
   width: 100%;
-  background: #dedede;
+  background: grey;
   text-align: center;
-  font-family: 'Montserrat', sans-serif;
+  font-family: monospace;
+  font-size: 20px;
   color: #191919;
   overflow-x: hidden;
   
@@ -56,7 +57,7 @@ table,thead,tbody,tfoot,tr, td,th{
 .table{
   background: #fff;
   margin: auto;
-  border:2px solid teal;
+  border:2px solid #2a2a2e;
   padding: 0;
   margin-bottom: 5rem;
   border-collapse: collapse;
@@ -64,15 +65,15 @@ table,thead,tbody,tfoot,tr, td,th{
 
 .th{
   font-weight:900;
-  color: teal;
-  border:2px solid teal;
+  color: #2a2a2e;
+  border:2px solid #2a2a2e;
   &:nth-child(odd){
     border-right:none;
   }
 }
 .td{
   font-weight: 300;
-  border:1px solid teal;
+  border:1px solid #2a2a2e;
   border-top:none;
   &:nth-child(odd){
     border-right:none;
@@ -92,8 +93,8 @@ table,thead,tbody,tfoot,tr, td,th{
 
 
 .heading{
-       font-family: 'Allerta Stencil', sans-serif; 
-    color:teal;
+    font-family: 'Allerta Stencil', sans-serif; 
+    color:#2a2a2e;
     }
 
 input[type=text] {
@@ -101,15 +102,15 @@ input[type=text] {
     padding: 12px 20px;
     margin: 8px 0;
     box-sizing: border-box;
-    border: 2px solid teal;
+    border: 2px solid #2a2a2e;
     border-radius: 4px;
 }
 
  input[type=submit] {
     background-color: transparent; /* Green */
-    border: 2px solid teal;
+    border: 2px solid #2a2a2e;
     border-radius: 6%;
-    color: teal;
+    color: #2a2a2e;
     padding: 12px 20px;
     text-align: center;
     text-decoration: none;
@@ -124,16 +125,16 @@ input[type=text] {
 
 
 input[type=submit]:hover {
-    background-color: teal;
+    background-color: #2a2a2e;
     color: white;
 }
     .fa{
-        color:teal;
+        color:#2a2a2e;
     }
     .title{
-        color:teal;
+        color:#2a2a2e;
         font-weight: bolder;
-       border:2px solid teal;
+        border:2px solid #2a2a2e;
     }
 
 .res{
@@ -146,12 +147,12 @@ input[type=submit]:hover {
         font-weight: 800;
     }
     .pos{
-        color: teal  ;
+        color: #2a2a2e;
         font-size: 18px;
         font-weight: 800;
     }
     .neu {
-        color : #2E302C;
+        color : #2a2a2e;
         font-size: 18px;
         font-weight: 800;
     }
