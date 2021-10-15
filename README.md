@@ -5,7 +5,7 @@
 
 [![GitHub repo size](https://img.shields.io/github/repo-size/vinitshahdeo/TwitterSentimentAnalysis.svg?logo=github&style=social)](https://github.com/vinitshahdeo/) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/TwitterSentimentAnalysis.svg?logo=git&style=social)](https://github.com/vinitshahdeo/) [![GitHub top language](https://img.shields.io/github/languages/top/vinitshahdeo/TwitterSentimentAnalysis.svg?logo=php&style=social)](https://github.com/vinitshahdeo/)
 
-A web app to search the keywords(**Hashtags**) on Twitter and analyze the sentiments of it. The source code is written in PHP and it performs Sentiment Analysis on Tweets by using the Datumbox API.
+A web app to search the keywords (**Hashtags**) on Twitter and analyze the sentiments of it. The source code is written in PHP and it performs Sentiment Analysis on Tweets by using the Datumbox API.
 
 [![Check it Out](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/vinitshahdeo) [![Live Demo](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)](https://github.com/vinitshahdeo)
 
@@ -49,7 +49,7 @@ define('TWITTER_ACCESS_SECRET', 'XXXXXXXXXXXXXXXXXX');
 
  - Run `localhost/index.php`
  
- - Wait a while after entering the hashtags. It may take one minute to fetch the tweets. Make sure that your system is connected with internet.
+ - Wait a while after entering the hash tags. It may take one minute to fetch the tweets. Please make sure that your system is connected with internet.
  
 ## Related Repository
 
